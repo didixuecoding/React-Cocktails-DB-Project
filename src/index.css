@@ -277,6 +277,9 @@ Cocktail
   color: var(--darkGrey);
   margin-bottom: 0.5rem;
 }
+.cocktail-icon {
+  color: var(--primaryLightColor);
+}
 /* 
 ====== 
 Form
@@ -349,4 +352,3 @@ Cocktail
     padding-top: 0;
   }
 }
-
